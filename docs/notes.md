@@ -1,5 +1,5 @@
 # Python Notes – FNB App Academy
-
+# unit 1
 ## 1. What is Python?
 - Python is a **high-level, interpreted programming language** (first released in 1991).
 - Widely used in:
