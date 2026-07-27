@@ -1,4 +1,4 @@
-# Learning objectives
+# Unit 6 Learning objectives
 By the end of this unit, you should be able to:
 
 - Write for loops to iterate over lists, dictionaries, strings, and range()
