@@ -26,7 +26,7 @@ It serves as both a learning log and a portfolio of completed work.
 ## Project Index
 
 ### Unit 1
-- [Concert Ticket Booker](projects/unit1/concert_ticket_booker)
+- [Concert Ticket Booker](projects/unit1/concert_ticker_booker)
 - [Student Info](projects/unit1/student_info)
 
 ### Unit 2
