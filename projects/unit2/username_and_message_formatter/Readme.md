@@ -1,4 +1,4 @@
-# Project 3 – Username and Message Formatter
+# Unit 2 practical task – Username and Message Formatter
 
 ##  Overview
 Create a Python script called `string_formatter.py` that collects a user’s first name, last name, and a short bio message, then applies multiple string transformations to produce a formatted user profile output.  
